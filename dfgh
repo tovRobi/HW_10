@@ -1,0 +1,29 @@
+[33mcommit 2b8ff5b42ddd1f3b089472f2cc5373a3e463356c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Robert <robigolomb@gmail.com>
+Date:   Sat Sep 7 23:01:02 2024 +0200
+
+    Оновлено файл develop_test.txt
+
+[33mcommit b951265e114176c78351274a7be95630bca77b13[m
+Author: Robert <robigolomb@gmail.com>
+Date:   Sat Sep 7 22:57:41 2024 +0200
+
+    Додано файл develop_test.txt у гілку develop
+
+[33mcommit 53d202d3d6b8596daabe4213e90cfefce5b2a72b[m
+Author: Robert <robigolomb@gmail.com>
+Date:   Sat Sep 7 22:56:03 2024 +0200
+
+    Додано файл main_test.txt
+
+[33mcommit 7cc0755817ba0c599871eec6bb9f2e81e74c7d13[m
+Author: Robert <robigolomb@gmail.com>
+Date:   Sat Sep 7 22:55:40 2024 +0200
+
+    Додано файл text_ignore.txt у .gitignore
+
+[33mcommit c00d73a07eae7b3b990316425988b5a1628b3fe5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: tovRobi <71614477+tovRobi@users.noreply.github.com>
+Date:   Sat Sep 7 22:52:00 2024 +0200
+
+    Initial commit
