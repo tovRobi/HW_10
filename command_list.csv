@@ -1,1 +1,7 @@
-tory
+    1  cd HW_10
+    2  git clone https://github.com/tovRobi/HW_10.git
+    3  it clone https://github.com/tovRobi/HW_10.git
+    4  git clone https://github.com/tovRobi/HW_10.git
+    5  rm -rf HW_10
+    6  git clone https://github.com/tovRobi/HW_10.git
+    7  history > command_list.csv
